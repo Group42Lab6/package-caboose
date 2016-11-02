@@ -6,4 +6,4 @@ To use, copy the source into your project, so that "caboose" ends up inside the
 
 Then add the package path to your config/.autoload...
     
-    $autoload['packages'] = array(APPPATH.'third_party', '/caboose');
+    $autoload['packages'] = array(APPPATH.'third_party/caboose');
