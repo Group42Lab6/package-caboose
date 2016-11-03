@@ -10,7 +10,7 @@ To use, copy the source into your project, so that "caboose" ends up inside the
 
 Then add the package path to your config/.autoload...
     
-    $autoload['packages'] = array(APPPATH.'third_party/caboose');
+    $autoload['packages'] = array(APPPATH.'third_party/caboose/');
 
 Configure the package by modifying the settings at the top of libraries/Caboose.
 You would only need to do this if adding additional widgets, or if changing
