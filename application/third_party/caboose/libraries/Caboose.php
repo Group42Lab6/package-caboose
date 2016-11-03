@@ -23,7 +23,7 @@ class Caboose {
 			'js' => 'jquery-1.12.4.min.js'
 		),
 		'bootstrap' => array(
-			'css' => array('bootstrap.min.css','bootstrap-responsive.min.css','bootstrap-theme.min.css'),
+			'css' => 'bootstrap.min.css',
 			'js' => 'bootstrap.min.js'
 		),
 	);
