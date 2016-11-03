@@ -1,5 +1,5 @@
 # package-caboose
-Client-side dependency management
+Client-side dependency management for CodeIgniter 3
 
 This is an **example package** at this point, not guaranteed to be
 complete or bug-free! I am working on whipping it into shape, but
