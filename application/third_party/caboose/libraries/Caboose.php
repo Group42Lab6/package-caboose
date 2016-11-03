@@ -24,7 +24,7 @@ class Caboose {
 		),
 		'jquery' => array(
 			'css' => '',
-			'js' => 'jquery-1.11.1.min.js'
+			'js' => 'jquery-3.1.1.min.js'
 		)
 	);
 
