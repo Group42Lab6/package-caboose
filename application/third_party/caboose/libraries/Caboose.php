@@ -20,7 +20,7 @@ class Caboose {
 	var $base = array(
 		'jquery' => array(
 			'css' => '',
-			'js' => 'jquery-1.12.4.min.js'
+			'js' => 'jquery-1.11.1.min.js'
 		),
 		'bootstrap' => array(
 			'css' => 'bootstrap.min.css',
