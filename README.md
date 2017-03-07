@@ -27,7 +27,7 @@ view parameters before invoking the parser on the template file...
         $this->data['caboose_scripts'] = $this->caboose->scripts();
         $this->data['caboose_trailings'] = $this->caboose->trailings();
 
-        $this->parser->parse('_template', $this->data);
+        $this->parser->parse(...);
     }
 
 Modify your view template(s) to include the Caboose view parameters in the right place...
